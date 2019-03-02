@@ -1,5 +1,5 @@
-**Markdown & Git**
-1. ## Aliaksandr Papov.
+# **Markdown & Git**
+1. ### Aliaksandr Papov.
 2. +375296425975 (Viber, Telegram); *luxor.sasha.popov@gmail.com*
 3. I want to learn programming, find a job and work in my pleasure, because morally solve complex problems.
 4. I am new to programming. Nemeny studied JS, Java, html, css.
