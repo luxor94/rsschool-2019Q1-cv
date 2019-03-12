@@ -110,3 +110,11 @@ p {
 color: black;
 background: gray;
 }
+
+.clic {
+    color: orange;  
+}
+
+.clic:hover {
+    color: black;
+}
